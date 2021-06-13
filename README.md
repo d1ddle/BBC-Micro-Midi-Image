@@ -4,8 +4,6 @@
 
 #### Here's a look:
 
+#### MUSIC: https://github.com/d1ddle/BBC-Micro-Midi-Image/raw/main/demo-assets/Rainbow%20Road%20BBC%20Micro%20Edition.mp3
+
 ![MKWII SCREEN](https://github.com/d1ddle/BBC-Micro-Midi-Image/raw/main/demo-assets/mkwii-demo.png)
-
-#### https://github.com/d1ddle/BBC-Micro-Midi-Image/raw/main/demo-assets/Rainbow%20Road%20BBC%20Micro%20Edition.mp3
-
-https://github.com/d1ddle/BBC-Micro-Midi-Image/raw/main/demo-assets/Rainbow%20Road%20BBC%20Micro%20Edition.mp3
