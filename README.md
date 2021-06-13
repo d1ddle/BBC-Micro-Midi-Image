@@ -4,6 +4,8 @@
 
 #### Here's a look:
 
+### Run it in JSBeeb: https://bbc.godbolt.org/?disc=https://d1ddle.github.io/BBC-Micro-Midi-Image/demo-assets/mkwiiscreen%20(3).ssd&autoboot&model=B
+
 #### MUSIC: https://github.com/d1ddle/BBC-Micro-Midi-Image/raw/main/demo-assets/Rainbow%20Road%20BBC%20Micro%20Edition.mp3
 
 ![MKWII SCREEN](https://github.com/d1ddle/BBC-Micro-Midi-Image/raw/main/demo-assets/mkwii-demo.png)
